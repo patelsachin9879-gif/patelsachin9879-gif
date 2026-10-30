@@ -54,6 +54,11 @@ Email Me 👉 ✉️ **patelsachin9879@gmail.com** for collaborations, projects,
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=patelsachin9879-gif&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🏆 GitHub Trophies
 <p align="center">
